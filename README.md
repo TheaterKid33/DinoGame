@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://theatrekid33.github.io/dinogame/](https://theaterkid33.github.io/dinogame/)
+> Open this page at [https://theaterkid33.github.io/dinogame/](https://theaterkid33.github.io/dinogame/)
 
 ## Use as Extension
 
