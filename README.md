@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/theatrerkid33/dinogame** and import
+* search for **https://github.com/theaterkid33/dinogame** and import
 
 ## Edit this project
 
